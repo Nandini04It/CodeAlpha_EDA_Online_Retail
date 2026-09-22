@@ -180,7 +180,7 @@ trend, a correlation heatmap, day-of-week/hour-of-day activity, and the two hypo
 ## Project Folder Structure
 
 ```
-CodeAlpha_EDA_Online_Retail/
+EDA_Online_Retail/
 ├── Online_Retail_EDA.ipynb      # Main analysis notebook (all 19 sections)
 ├── README.md                    # This file
 ├── requirements.txt             # Python dependencies
